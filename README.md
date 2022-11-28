@@ -1,2 +1,2 @@
 # react-internship-board
-![Screenshot](finalLook.png)
+![Screenshot](image/finalLook.png)
